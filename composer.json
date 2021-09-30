@@ -1,0 +1,17 @@
+{
+    "name": "mathieu/compteur-tt",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathieu",
+            "email": "mathieu.capon@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
